@@ -1,11 +1,11 @@
 import React from "react";
-import TreeView from "./TreeView";
+//import TreeView from "./TreeView";
+import TreeView2 from "./TreeView2";
 
 function App() {
   return (
     <div className="App">
-      <h1>Tree Structure in MongoDB</h1>
-      <TreeView />
+      <TreeView2 />
     </div>
   );
 }
